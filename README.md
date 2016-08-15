@@ -2,7 +2,7 @@
 
 ## Installation
 ```shell
-	composer require asvinb/wp-nonce-oo
+	composer require inpsyde-wp-nonce/wp-nonce-oo
 ```
 
 ## How to use
