@@ -1,0 +1,16 @@
+{
+  "name": "apppack/inpsyde-wp-nonce",
+  "description": "WP_NONCE IN OOP INPSYDE",
+  "autoload": {
+    "files": ["src/class-nonce-wrapper.php"]
+  },
+  "authors": [
+    {
+      "name": "Hemang Vyas",
+      "email": "hemangvyas11@gmail.com"
+    }
+  ],
+  "require-dev": {
+    "brain/monkey": "~1.0"
+  }
+}
