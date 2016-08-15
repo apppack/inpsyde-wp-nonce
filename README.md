@@ -2,7 +2,7 @@
 
 ## Installation
 ```shell
-	composer require inpsyde-wp-nonce/wp-nonce-oo
+	composer require apppack/inpsyde-wp-nonce
 ```
 
 ## How to use
